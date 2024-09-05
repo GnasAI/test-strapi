@@ -12,6 +12,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'images.pexels.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'realistic-rhythm-1a0acada73.media.strapiapp.com',
       }
     ],
   },
